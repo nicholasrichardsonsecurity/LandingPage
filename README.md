@@ -29,12 +29,12 @@ A plataforma permite aos usuários criar e personalizar facilmente seus sites e 
 - Conta no serviço de hospedagem para o site
 - Conta no serviço de impressão de cartões inteligentes (se aplicável)
 
-## 🏁 Instalação e Configuração
+## 🏁 Projetos Criaddos
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/projeto-xyz.git`
-2. Instale as dependências: `npm install`
-3. Configure as variáveis de ambiente: `cp .env.example .env`
-4. Execute o servidor local: `npm start`
+1. Para Barbearia - `Barber Shop Landing Page` https://barbershopvisiconnect.vercel.app
+2. Para Provedor - `Em Breve` #
+3. Para Lanchonete - `Em Breve` #
+4. Para Restaurante - `Em Breve` #
 
 ## 🔧 Como Usar
 
